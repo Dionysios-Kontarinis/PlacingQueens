@@ -1,0 +1,1 @@
+queens.o: ../queens.c
